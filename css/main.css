@@ -1,0 +1,30 @@
+/* Home page */
+.main-page {
+	
+}
+
+
+/* Logotype */
+.logo-wrap{	
+  	text-align: center;
+
+}
+
+.logo{
+	height:120px; 
+    width:200px; 
+	overflow: hidden;
+    display: inline-block;
+	
+	
+}
+.logo-img{
+	width: 100%;
+}
+.logo::before {
+  heigth: 100%;
+  width: 0;
+  line-height: 100%;
+  vertical-align: middle;
+}
+
